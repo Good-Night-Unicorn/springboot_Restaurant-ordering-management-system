@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/660cbc86-b73a-4d6a-9dd3-d8a58e9a7739)## 基于Springboot+vue的餐厅点餐系统源代码+LW+数据库)
+## 基于Springboot+vue的餐厅点餐系统源代码+LW+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
